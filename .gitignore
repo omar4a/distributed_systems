@@ -1,1 +1,4 @@
 sshkey.pem
+
+.idea/
+__pycache__/
